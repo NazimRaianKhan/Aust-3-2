@@ -1,0 +1,11 @@
+parent('Hasib' , 'Rakib'). parent('Rakib' , 'Sohel'). parent('Rakib' , 'Rebeka').
+parent('Rashid' , 'Hasib'). grandparent(X, Z) :- parent(X, Y), parent(Y, Z).
+
+
+findGC :- write(' Grandparent: '), read(x), write('Grandchidren: '),
+	         grandparent(x, GC) ,write(GC), tab(5), fail.
+findGC.
+
+
+
+
