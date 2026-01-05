@@ -1,0 +1,11 @@
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\Nazim\3.2\sd\22.12.2025\ConsoleApp1\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

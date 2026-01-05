@@ -1,0 +1,15 @@
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\bin\Debug\net10.0\PracticeApp1.exe
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\bin\Debug\net10.0\PracticeApp1.deps.json
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\bin\Debug\net10.0\PracticeApp1.runtimeconfig.json
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\bin\Debug\net10.0\PracticeApp1.dll
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\bin\Debug\net10.0\PracticeApp1.pdb
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\PracticeApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\PracticeApp1.AssemblyInfoInputs.cache
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\PracticeApp1.AssemblyInfo.cs
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\PracticeApp1.csproj.CoreCompileInputs.cache
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\PracticeApp1.sourcelink.json
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\PracticeApp1.dll
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\refint\PracticeApp1.dll
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\PracticeApp1.pdb
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\PracticeApp1.genruntimeconfig.cache
+E:\Porashona\Aust\3.2\SD Lab\Practice\29.12.2025\PracticeApp1\obj\Debug\net10.0\ref\PracticeApp1.dll

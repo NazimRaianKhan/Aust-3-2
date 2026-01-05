@@ -1,0 +1,4 @@
+go(A, N, D):- sum(A,N,D,0,S), write('Sum: '), write(S).
+
+sum(_,0,_,0,X):-!.
+sum(A,N,D,S,X):-A1 is A+D , N1 is N-1 , sum(A1,N1,D,S1,X), S is S1+A .
