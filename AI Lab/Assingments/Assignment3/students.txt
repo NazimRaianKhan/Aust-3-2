@@ -1,0 +1,5 @@
+nazim	cse	3.9
+raian	eee	3.4
+khan	civil	3.3
+pabak	bba	3.2
+dev	ipe	3.1
