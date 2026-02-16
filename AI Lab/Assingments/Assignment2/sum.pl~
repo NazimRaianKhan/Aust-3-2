@@ -1,4 +1,4 @@
-sum_ap(_, _, 0, 0):-!.
+sum_ap(_, _, 0, 0).
 
 sum_ap(A, D, N, Sum) :-
     N > 0,
